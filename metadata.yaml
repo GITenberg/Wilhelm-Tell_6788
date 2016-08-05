@@ -1,0 +1,42 @@
+_repo: Wilhelm-Tell_6788
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Martin, Theodore, Sir
+    aliases:
+    - Martin, Sir Theodore
+    - Gaultier, Bon
+    birthdate: 1816
+    deathdate: 1909
+    gutenberg_agent_id: '2404'
+    url: http://www.gutenberg.org/2009/agents/2404
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Martin
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: See also PG#2782 with Introductory Note
+gutenberg_bookshelf:
+- Harvard Classics
+- Opera
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Tell, Wilhelm -- Drama'
+- GITenberg
+title: Wilhelm Tell
+url: http://www.gutenberg.org/ebooks/6788
