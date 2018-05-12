@@ -1,5 +1,5 @@
 _repo: Wilhelm-Tell_6788
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Martin, Theodore, Sir
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '2404'
     url: http://www.gutenberg.org/2009/agents/2404
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Martin
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: See also PG#2782 with Introductory Note
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6788#Wilhelm-Tell
 gutenberg_bookshelf:
 - Harvard Classics
 - Opera
