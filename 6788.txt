@@ -2819,7 +2819,7 @@ The man of Unterwald across the lake.
 Of wife and children then?
 
 TELL.
-              Dear wife, I bad;
+              Dear wife, I had;
 And therefore saved the father for his children.
 
 HEDWIG.
@@ -3178,7 +3178,7 @@ It is thy post by birth.
 
    [Hunting horns are heard in the distance.
 
-             But bark! The chase!
+             But hark! The chase!
 Farewell,--'tis needful we should part--away!
 Fight for thy land; thou lightest for thy love.
 One foe fills all our souls with dread; the blow
@@ -3617,7 +3617,7 @@ Who tells thee that I jest?
 Room there, I say! And let him take his distance--
 Just eighty paces-as the custom is
 Not an inch more or less! It was his boast,
-That at a hundred he could bit his man.
+That at a hundred he could hit his man.
 Now, archer, to your task, and look you miss not!
 
 HARRAS:
@@ -6185,7 +6185,7 @@ DUKE JOHN (springs up and grasps him ardently by the hand).
 You save me from the terrors of despair.
 
 TELL.
-Let go my band! Thou must away. Thou canst not
+Let go my hand! Thou must away. Thou canst not
 Remain here undiscovered, and discovered
 Thou canst not count on succor. Which way, then,
 Wilt bend thy steps? Where dost thou hope to find
